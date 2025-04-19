@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Dionaea Muscipula</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Dionaea Muscipula</h1>
+  </header>
+
+  <main style="padding: 2rem; max-width: 600px; margin: auto;">
+    <img src="immagini/dionaea.jpg" alt="Dionaea" style="width: 100%; border-radius: 8px;">
+    <p style="margin-top: 1rem;">
+      La Dionaea Muscipula, conosciuta come "Venere acchiappamosche", è una delle piante carnivore più iconiche. 
+      Si nutre di insetti attirandoli con il suo profumo e con le sostanze zuccherine che produce e intrappolandoli con le sue foglie a scatto rapido.
+    </p>
+
+    <p><strong>Luce:</strong> Molta luce diretta.<br>
+       <strong>Acqua:</strong> Solo acqua distillata o piovana.<br>
+       <strong>Terreno:</strong> Torba acida e perlite (senza fertilizzanti).</p>
+
+    <p><a href="index.html">← Torna alla home</a></p>
+  </main>
+
+  <footer>
+   /* <p>Contatti: <a href="mailto:tuamail@example.com">tuamail@example.com</a></p> */
+  </footer>
+</body>
+</html>
