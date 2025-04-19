@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Piante Carnivore</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Le mie piante carnivore</h1>
+  </header>
+
+  <main class="gallery">
+    <div class="plant-card">
+      <a href="dionaea.html">
+        <img src="immagini/pianta1.jpg" alt="nepenthes veitchii">
+        <h2>nepenthes veitchii</h2>
+      </a>
+    </div>
+    <div class="plant-card">
+      <a href="nepenthes.html">
+        <img src="immagini/pianta2.jpg" alt="Nepenthes robcatley x veitchii">
+        <h2>Nepenthes robcantley x veitchii</h2>
+      </a>
+    </div>
+    <div class="plant-card">
+      <a href="drosera.html">
+        <img src="immagini/pianta3.jpg" alt="nepenthes">
+        <h2>nepenthes</h2>
+      </a>
+    </div>
+  </main>
+
+  <footer>
+    /* <p>Contatti: <a href="mailto:tuamail@example.com">tuamail@example.com</a></p> */
+    <p>Instagram: <a href="https://instagram.com/damiano_42" target="_blank">@damiano_42</a></p>
+  </footer>
+</body>
+</html>
