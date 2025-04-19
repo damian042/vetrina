@@ -13,28 +13,28 @@
 
   <main class="gallery">
     <div class="plant-card">
-      <a href="dionaea.html">
-        <img src="immagini/pianta1.jpg" alt="nepenthes veitchii">
-        <h2>nepenthes veitchii</h2>
+      <a href="pianta1.html">
+        <img src="pianta1.jpg" alt="Pianta 1">
+        <h2>Pianta 1</h2>
       </a>
     </div>
     <div class="plant-card">
-      <a href="nepenthes.html">
-        <img src="immagini/pianta2.jpg" alt="Nepenthes robcatley x veitchii">
-        <h2>Nepenthes robcantley x veitchii</h2>
+      <a href="pianta2.html">
+        <img src="pianta2.jpg" alt="Pianta 2">
+        <h2>Pianta 2</h2>
       </a>
     </div>
     <div class="plant-card">
-      <a href="drosera.html">
-        <img src="immagini/pianta3.jpg" alt="nepenthes">
-        <h2>nepenthes</h2>
+      <a href="pianta3.html">
+        <img src="pianta3.jpg" alt="Pianta 3">
+        <h2>Pianta 3</h2>
       </a>
     </div>
   </main>
 
   <footer>
-    /* <p>Contatti: <a href="mailto:tuamail@example.com">tuamail@example.com</a></p> */
-    <p>Instagram: <a href="https://instagram.com/damiano_42" target="_blank">@damiano_42</a></p>
+    <p>Contatti: <a href="mailto:tuamail@example.com">tuamail@example.com</a></p>
+    <p>Instagram: <a href="https://instagram.com/tua_pagina" target="_blank">@tua_pagina</a></p>
   </footer>
 </body>
 </html>
