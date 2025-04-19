@@ -38,9 +38,18 @@
 <body>
   <h1>La mia vetrina di piante carnivore 🌱</h1>
   <div class="gallery">
-    <img src="foto/pianta1.jpg" alt="Pianta 1" />
-    <img src="foto/pianta2.jpg" alt="Pianta 2" />
-    <img src="foto/pianta3.jpg" alt="Pianta 3" />
+    <img src="foto/pianta1.jpg.heic" alt="Pianta 1" />
+    <img src="foto/pianta2.jpg.heic" alt="Pianta 2" />
+    <img src="foto/pianta3.jpg.heic" alt="Pianta 3" />
+    <img src="foto/pianta4.jpg.heic" alt="Pianta 4" />
+    <img src="foto/pianta5.jpg.heic" alt="Pianta 5" />
+    <img src="foto/pianta6.jpg.heic" alt="Pianta 6" />
+    <img src="foto/pianta7.jpg.heic" alt="Pianta 7" />
+    <img src="foto/pianta8.jpg.heic" alt="Pianta 8" />
+    <img src="foto/pianta9.jpg.heic" alt="Pianta 9" />
+    <img src="foto/pianta10.jpg.heic" alt="Pianta 10" />
+    <img src="foto/pianta11.jpg.heic" alt="Pianta 11" />
+    <img src="foto/pianta12.jpg.heic" alt="Pianta 12" />
     <!-- Aggiungi altre immagini -->
   </div>
 </body>
